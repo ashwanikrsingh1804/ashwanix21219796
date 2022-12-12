@@ -5,7 +5,7 @@
 
 ## Run an image ##
 
-```docker run --name ncilab02 -p 8090:8080 nci02```
+docker run --name blockchain -p 8090:8080 ashwanikrsingh/blockchain_project
 
 ## Run the curl command ##
 
