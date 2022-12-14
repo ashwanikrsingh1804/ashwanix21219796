@@ -5,9 +5,9 @@
 
 ## Run an image ##
 
-'''docker pull ashwanikrsingh/blockchain_project:latest'''
+docker pull ashwanikrsingh/blockchain_project:latest
 
-'''docker run --name blockchain -p 8090:8080 ashwanikrsingh/blockchain_project'''
+docker run --name blockchain -p 8090:8080 ashwanikrsingh/blockchain_project
 
 ## Run the curl command ##
 
